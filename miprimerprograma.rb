@@ -1,5 +1,6 @@
 puts "hola rxn"
 
+<<<<<<< HEAD
 puts "hola mundo"
 # tengo_plata = true 
 # esta_lloviendo = false
@@ -42,3 +43,7 @@ if c != a
 else
 	puts "no sirve"
 end
+=======
+puts "Quiero dormir"
+
+>>>>>>> bdbc3a62d4f1fe290030318e6f53beebfb996ffe
